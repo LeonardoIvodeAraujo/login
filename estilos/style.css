@@ -97,11 +97,11 @@ form > input[type=button]{
 form > input[type=button]:hover{
     background-color: #24b6c0;
 }
-img{
+.bot{
     
-    height: 30px;
-    margin: 5px 0px ;
+    height: 25px;
+    margin-top: 2px;
 }
-div#ilogin{
-    margin-bottom: -10px;
-}
+
+
+   
