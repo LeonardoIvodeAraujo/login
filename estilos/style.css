@@ -36,10 +36,16 @@ section#login{
     height: 500px;
     border-radius: 20px;
     overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.425);
 
 }
 section#login > div#imagem{
+    display: block;
     background: #F08186 url(../imagens/pexels-shockphoto-by-szoka-sebastian-1381938.jpg) no-repeat;
     background-size: cover;
     height: 200px;
+}
+section#login > div#formulario {
+    display: block;
+    padding: 10px;
 }
