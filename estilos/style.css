@@ -103,6 +103,8 @@ form > input[type=button]:hover{
 .bot {
 
     width: 40px;
+    padding: 5px;
+    
       
 }
 div.campo > input{
